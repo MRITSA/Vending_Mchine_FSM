@@ -62,9 +62,13 @@ Vending_Machine_FSM/
 
 Compile:
 iverilog -o vending vending_machine.v vending_tb.v
+
 Run:
+
 vvp vending
+
 Open waveform:
+
 gtkwave dump.vcd
 
 # Synthesis
