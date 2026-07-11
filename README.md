@@ -1,4 +1,4 @@
-# Vending_Mchine_FSM
+# Vending_Machine_FSM
 
 # Overview
 This project implements a Finite State Machine (FSM) based vending machine using Verilog HDL. The design accepts coin inputs, accumulates the inserted amount, dispenses the selected product when the required amount is reached, and returns change when applicable.
